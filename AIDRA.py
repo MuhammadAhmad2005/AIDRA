@@ -1,5 +1,5 @@
 """
-AIDRA v4 — Adaptive Intelligent Disaster Response Agent
+AIDRA — Adaptive Intelligent Disaster Response Agent
 ========================================================
 AIC-201 | Dr. Arshad Farhad | Semester 5-A
 
