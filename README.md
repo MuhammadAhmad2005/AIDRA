@@ -16,7 +16,7 @@ Built for the **AIC-201 Complex Computing Problem (CCP)** under **Dr. Arshad Far
 
 **Developed by:**
 - [Muhammad Ahmad] — [@yourgithub](https://github.com/MuhammadAhmad2005)
-- [Syed Ali Hassan] — [@partnergithub](https://github.com/partnergithub)
+- [Syed Ali Hassan] — [@partnergithub](https://github.com/Ali-Hassan-63)
 
 ---
 
