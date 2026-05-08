@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![AI](https://img.shields.io/badge/AI-Hybrid%20System-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Course](https://img.shields.io/badge/Course-AIC--201-purple)
 
 ---
@@ -16,18 +15,8 @@ AIDRA simulates an intelligent emergency response system operating in a dynamic 
 Built for the **AIC-201 Complex Computing Problem (CCP)** under **Dr. Arshad Farhad**, Semester 5-A.
 
 **Developed by:**
-- [Your Name] — [@yourgithub](https://github.com/yourgithub)
-- [Partner Name] — [@partnergithub](https://github.com/partnergithub)
-
----
-
-## 🎬 Demo
-
-> *(Add a screen recording GIF or screenshot here)*
-
-```
-[INSERT DEMO GIF HERE]
-```
+- [Muhammad Ahmad] — [@yourgithub](https://github.com/MuhammadAhmad2005)
+- [Ali Hassan] — [@partnergithub](https://github.com/partnergithub)
 
 ---
 
@@ -225,9 +214,6 @@ This project was built to satisfy the **CCP (Complex Computing Problem)** requir
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
